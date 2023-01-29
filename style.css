@@ -1,0 +1,23 @@
+#form{
+    display: block;
+    margin-top: 80px;
+    background-color: cadetblue;
+    width: 500px;
+}
+
+.label{
+    display: block;
+}
+#button{
+    margin-top: 1rem;
+}
+#signup:hover,#signin:hover{
+    background-color: black;
+}
+#form form{
+    width: 300px;
+    height: 300px;
+    padding-top: 30px;
+   
+
+}
